@@ -1,0 +1,3 @@
+transaction_id,timestamp,amount,currency,sender_account,receiver_account,sender_country,sender_municipality,receiver_country,receiver_municipality,transaction_type,notes,is_valid,suspicious_amount,is_duplicate,invalid_sender_iban,invalid_receiver_iban,is_future
+c2565519-df33-426e-a061-f18d3c3e96a1,2025-05-05 22:49:00,2217915.0,SEK,SE8902AAZZ32784603345278,SE8902GTLW57183159704787,Sweden,Gävle,Sweden,Örebro,outgoing,Gift to family member,True,True,False,False,False,False
+d4b33191-0de5-485b-b438-ef17305024fd,2025-03-24 10:14:00,3700879.0,SEK,SE8902VQJB24905491378975,SE8902BTEZ26557538989061,Sweden,Norrköping,Sweden,Kalmar,outgoing,Payment for invoice #6501,True,True,False,False,False,False
